@@ -7,7 +7,7 @@ Web Front-End developer
 *   🌍  I'm based in Spain
 *   🖥️  See my portfolio at [4quacode - portfolio](http://aquacode.vercel.app)
 *   ✉️  You can contact me at [jarscode.dev@outlook.com](mailto:jarscode.dev@outlook.com)
-*   🚀  I'm currently working on [Shortly](http://shortlyfrontend.vercel.app)
+*   🚀  I'm currently working on [Beeurl](http://shortlyfrontend.vercel.app)
 *   🧠  I'm learning NestJS
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I'm secretly Spiderman... but don't tell anyone
