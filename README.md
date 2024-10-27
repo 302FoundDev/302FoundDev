@@ -12,7 +12,7 @@ Web Front-End developer
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I'm secretly Spiderman... but don't tell anyone
 <a href="https://www.github.com/4quacode" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/4quacode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/302FoundDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
