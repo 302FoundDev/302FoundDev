@@ -8,7 +8,6 @@ Web Front-End developer
 *   🖥️  See my portfolio at [302FoundDev - portfolio](https://302foundev.es)
 *   ✉️  You can contact me at [jarscode.dev@outlook.com](mailto:jarscode.dev@outlook.com)
 *   🚀  I'm currently working on [bee.app](https://bee.vercel.app)
-*   🧠  I'm learning NestJS
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I'm secretly Spiderman... but don't tell anyone
 
